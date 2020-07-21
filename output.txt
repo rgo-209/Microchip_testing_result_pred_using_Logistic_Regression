@@ -1,0 +1,37 @@
+******************* Starting execution **********************
+
+Successfully read the data.
+Getting the data ready.
+
+	Plotting the initial data.
+	Saved the initial data plotted to initialDataPlot.jpg.
+
+	Result of cost function with theta =  0.6931471805599454
+	==================> Optimizing cost function <==================
+
+
+	 __________________________ Results __________________________
+
+	Optimal theta values:  [[  11.55819454   26.10933464    9.33373751 -110.99431001  -11.18137531
+    -4.81169507 -180.05438374   33.52216544 -110.2788741   -47.31667495
+   451.1404462   226.90442056  190.41564366 -136.78401217 -123.75198522
+   246.82136637 -296.16167495  640.79766417  147.44620847  379.96605671
+   204.92808808 -641.27223758 -585.24725538 -271.96174569   64.63817699
+  -482.00298823 -136.43865264   93.46576533  154.32414898  660.28328535
+  -554.70677594 -133.28438039 -551.57903205  209.88455243  -47.43679934
+  -149.76555536]]
+
+	Minimum cost value:  0.23402645444918627
+
+	Plotting the decision bundaries.
+	==================> Optimizing cost function <==================
+
+	==================> Optimizing cost function <==================
+
+	==================> Optimizing cost function <==================
+
+	==================> Optimizing cost function <==================
+
+	Saved the decision boundaries plotted to decisionBoundaries.jpg.
+
+******************* Exiting **********************
